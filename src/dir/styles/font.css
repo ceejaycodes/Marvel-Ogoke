@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Inconsolata-Black';
+    src:local('Inconsolata-Black'), url("../../assets/fonts/Inconsolata-Black.ttf") format('truetype');  
+  }
+  
+  @font-face {
+    font-family: 'Inconsolata-Bold';
+    src: url("../../assets/fonts/Inconsolata-Bold.ttf") format('truetype');  
+  }
+  
+  @font-face {
+    font-family: 'Inconsolata-Variable';
+    src: url("../../assets/fonts/Inconsolata-VariableFont_wdth,wght.ttf") format('truetype');  
+  }
+  
+  
+    /* In font class */
+  
+  .InBlack {
+    font-family: 'Inconsolata-Black';
+  }
+  .InBold {
+    font-family: 'Inconsolata-Bold';
+  }
+  .InVariable {
+    font-family: 'Inconsolata-Variable';
+  }
+  
