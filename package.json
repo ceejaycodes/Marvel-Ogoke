@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ceejaycodes.github.io/Marvel-Ogoke",
+  "homepage": "https://ceejaycodes.github.io/Marvel-Ogoke/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
