@@ -52,11 +52,9 @@ body{
 .hertxtbx{
   z-index: 0;
   height: 20%;
-  margin: 5rem 1.2rem 0 1.2rem;
-  padding: 22px;
+  margin: 5rem 0 0 0;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: flex-start;
   flex-direction: column;
 }
 
@@ -175,9 +173,7 @@ body{
 
 .abtbx{
   display: flex;
-  padding: 1.2em;
   margin-bottom: 4em;
-  margin-left: 19px;
 }
 .abouttxt{
   color: $base-color;
@@ -194,7 +190,6 @@ body{
 
 
 .sklogs{
-  margin: 19px;
   gap: 32px;
   display: flex;
   justify-content: space-between;
@@ -273,7 +268,7 @@ body{
 
   .sklanbx{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
   }
 
   p{
