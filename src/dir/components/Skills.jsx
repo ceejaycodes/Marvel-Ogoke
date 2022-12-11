@@ -28,7 +28,7 @@ export default function Skills() {
  </Typography>
   </div>
   <div className='sklanbx' >
-    <Lottie style={{height:'350px', width:'400px'}} animationData={Skillslogso}/>
+    <Lottie className='sklanim' style={{height: '400px', width:'400px'}} animationData={Skillslogso}/>
   </div>
 
 

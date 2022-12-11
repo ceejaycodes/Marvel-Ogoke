@@ -40,9 +40,10 @@ const Navbar = () => {
       { Name: "Connect", Link: "connect" },
     ];
     return (
-      <AppBar sx={{display:"flex", background: "inherit", position:"fixed"}} >
+      <AppBar sx={{display:"flex", background: "#151515", position:"fixed"}} >
         <StyledToolbar>
             <Typography sx={{
+              cursor: "pointer",
             fontSize: "1.8rem",
             fontFamily: ["Inconsolata-Bold", "Inconsolata-Variable"].join(","),
             color:"#8D867A" 

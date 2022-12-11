@@ -9,12 +9,13 @@ export default function Hero() {
     <>
   
     <Box className='hertxtbx'>
+      <span className='herotyp'>
         <TypeAnimation className="hertxt" 
-        sequence={[ "Hello, I'm Marvel, a Fullstack Software Developer with Python And Javascript." ]}
+        sequence={[ "Hello, I'm Marvel, a Fullstack Software Developer." ]}
         cursor = {false}
         />
-        <Box className="herimgbx">
-        
+      </span>
+        <Box className="herimgbx"> 
       <img className="hero-img" src={heroimg} alt={"Marvel"}/>
     </Box>
     </Box>
@@ -23,7 +24,7 @@ export default function Hero() {
             Hire Me</button></a><Terminal className="hircon"/>
         </span>
         <span className='herrr'><a target="_blank" href="https://www.dropbox.com/s/q9j2taoxyxs5rbj/Resume-Marvel-Ogoke-8.pdf?dl=0"><button className="hirebtn2">
-            Resume</button> </a><Description className="hircon"/>
+            Resumé</button> </a><Description className="hircon"/>
         </span>
     </Box>
     </>

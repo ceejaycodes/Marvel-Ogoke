@@ -17,25 +17,25 @@ const project = [
     {
         image: Social,
         name : "Social Media App",
-        Info : "A Social Media App Built With Django And Javascript",
+        info : "A Social Media App Built With Django And Javascript",
         link: "https://github.com/ceejaycodes/Social-Media"
     },
     {
         image: Mail,
         name : "Mail App",
-        Info : "A Mail App Built With Django And Javascript",
+        info : "A Mail App Built With Django And Javascript",
         link: "https://github.com/ceejaycodes/Mail"
     },
     {
         image: Commerce,
         name : "E-commerce",
-        Info : "An E-commerce website built with Django and Javascript",
+        info : "An E-commerce website built with Django and Javascript",
         link: "https://github.com/ceejaycodes/Commerce"
     },
     {
         image: Movies,
         name : "Movie Search",
-        Info : "A movie search app Built With React",
+        info : "A movie search app Built With React",
         link: "https://github.com/ceejaycodes/movie-search"
     }
 
