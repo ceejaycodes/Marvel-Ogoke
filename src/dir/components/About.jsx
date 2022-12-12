@@ -12,11 +12,11 @@ export default function About() {
 
       </Box>
       <Box className='abtbx'>
-      <Typography variant='p' className='abouttxt' sx={{fontFamily: 'Inconsolata-Variable'}}> Technology is humanity’s most potent tool in her quest for survival and all round evolution. I am a software developer who believes he can use his skills to make an impact on various levels. 
+      <Typography variant='p' className='abouttxt' sx={{fontFamily: 'Inconsolata-Variable'}}> Technology is humanity’s most potent tool in her quest for survival and all round evolution. I am a software developer who believes he can use his skills to make an enormous impact. 
       Although I appreciate the importance of Javascript and frontend technology, I am heavily interested in exploring the potential of Python and its backend frameworks to build scalable applications and software. 
      I find nature fascinating and also enjoy a wide range of alternative music.
- In my spare time, I like to scribble my thoughts into words and it also makes for good poetry. 
-     I like to think that I possess problem solving skills that will benefit any organisation regardless of its scale. I appreciate work ethic and positive spirited people.
+ In my spare time, I like to scribble my thoughts into words - it also makes for good poetry. 
+     I like to think that I possess problem solving skills that will benefit any organisation regardless of its scale. I appreciate good work ethic and positive spirited people.
      Looking forward to working on your projects or simply connecting over a cup of coffee.
  </Typography>
  </Box>

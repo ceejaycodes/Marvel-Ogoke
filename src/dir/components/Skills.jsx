@@ -16,7 +16,7 @@ export default function Skills() {
 
 <div className='sklogs'>
 <Typography variant='h4' className='abouttxt' sx={{ fontSize: '21px',fontFamily: 'Inconsolata-Variable'}}> 
-   Here Are Some Of Languages and Frameworks I Use:
+   Here Are Some Of The Languages and Frameworks I Use:
  </Typography>
  <Typography variant='p' className='abouttxt' sx={{fontFamily: 'Inconsolata-Variable'}}> 
   Python(Django, Flask),
