@@ -15,7 +15,7 @@ export default function Connect() {
           />
       </Box>
       <Box  className='conanim'>
-      <ExternalLink href='https://linkedin.com/in/marvel-ogoke'><span><Lottie className='conicon' animationData={Linkedin}/> </span></ExternalLink>
+      <ExternalLink href='https://linkedin.com/in/marvel-ogoke'><Lottie className='conicon' animationData={Linkedin}/> </ExternalLink>
       <ExternalLink href='https://wa.me/+2348129751279'><Lottie className='conicon' animationData={Whatsapp}/></ExternalLink>
       <ExternalLink href='https://instagram.com/_topboy_cc'><Lottie className='conicon' animationData={Instagram}/></ExternalLink>
       </Box>

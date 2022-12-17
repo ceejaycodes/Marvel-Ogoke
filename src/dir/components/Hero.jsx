@@ -21,10 +21,10 @@ export default function Hero() {
     </Box>
     <Box component="div" className="herobtclas">
        <span className='herrr'><a target="_blank" href='mailto:dreelceejay79@yahoo.com'><button  className="hirebtn1">
-            Hire Me</button></a><Terminal className="hircon"/>
+            Hire Me</button></a>
         </span>
         <span className='herrr'><a target="_blank" href="https://www.dropbox.com/s/go9amgj6qe5cd1l/Resume-Marvel-Ogoke%201.pdf?dl=0"><button className="hirebtn2">
-            Resumé</button> </a><Description className="hircon"/>
+            Résumé</button> </a>
         </span>
     </Box>
     </>
