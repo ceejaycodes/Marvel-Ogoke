@@ -38,6 +38,7 @@ html{
 }
 
 body{
+  line-height: 1.5;
   background-color: $base-back;
 }
 
@@ -189,9 +190,8 @@ button{
 }
   .abouttxt{
     text-align: justify;
-    text-indent: 30px;
-    line-height: 35px;
     color: $base-color;
+    padding-bottom: 20px;
 
   }
 

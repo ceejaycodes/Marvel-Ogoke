@@ -48,7 +48,7 @@ const Navbar = () => {
             fontFamily: ["Inconsolata-Bold", "Inconsolata-Variable"].join(","),
             color:"#8D867A" 
             }}
-            onClick={() => window.location.replace(`/#`)}>Marvel Ogoke</Typography>
+            onClick={() => window.location.replace(`/`)}>Marvel Ogoke</Typography>
 
       <MenuBox sx={{ display: { xs: "none", sm: "none", md: "flex" } }}>
         {MenuItems.map((item) => (

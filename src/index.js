@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import "animate.css/animate.min.css";
 import App from './App';
 import './dir/styles/App.scss';
-import './dir/styles/font.css'
+import './dir/styles/font.css';
+// import AOS from 'aos';
+// import 'aos/dist/aos.css';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

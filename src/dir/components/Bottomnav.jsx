@@ -26,7 +26,7 @@ export default function Bottomnav() {
   width: '100%',
   display:  { xs: "flex", sm: "flex", md: "none" }}} elevation={3}
 >
-  <BottomNavigationAction onClick={() => window.location.replace("/#")} label="Home"  icon={<Grass htmlColor='#151515'/> }/>
+  <BottomNavigationAction onClick={() => window.location.replace("/")} label="Home"  icon={<Grass htmlColor='#151515'/> }/>
   <BottomNavigationAction onClick={() => window.location.replace("/#about")} label="About Me"  icon={<EmojiEmotions htmlColor='#151515'/> }/>
   <BottomNavigationAction onClick={() => window.location.replace("/#projects")}label="Projects" icon={<RoomPreferences htmlColor='#151515'  />} />
   <BottomNavigationAction onClick={() => window.location.replace("/#skills")}label="Skills" icon={<Stream htmlColor='#151515'  />} />

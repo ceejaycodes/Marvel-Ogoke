@@ -3,7 +3,6 @@ import { Box,Typography } from '@mui/material';
 import { TypeAnimation } from 'react-type-animation';
 import Skillslogso from '../../assets/images/skillslogso.json';
 import Python from '../../assets/images/python.svg';
-import Bash from '../../assets/images/bash.svg';
 import Bootstrap from '../../assets/images/bootstrap.svg';
 import Css3 from '../../assets/images/css3.svg';
 import Django from '../../assets/images/django.svg';
