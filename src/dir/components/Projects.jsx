@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box,Typography } from '@mui/material';
 import { TypeAnimation } from 'react-type-animation';
-import { ExternalLink } from 'react-external-link';
 import Social from '../../assets/images/social.jpeg';
 import Mail from '../../assets/images/mail.jpeg';
 import Commerce from '../../assets/images/commerce.jpeg';

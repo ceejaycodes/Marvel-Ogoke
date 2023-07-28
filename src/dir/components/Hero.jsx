@@ -28,7 +28,7 @@ export default function Hero() {
        <span className='herrr'><a target="_blank" href='mailto:dreelceejay79@yahoo.com'><button  className="hirebtn1">
             Hire Me</button></a>
         </span>
-        <span className='herrr'><a target="_blank" href="https://www.dropbox.com/s/go9amgj6qe5cd1l/Resume-Marvel-Ogoke%201.pdf?dl=0"><button className="hirebtn2">
+        <span className='herrr'><a target="_blank" href="https://www.dropbox.com/scl/fi/3zytxojhp0kaafer1ikdg/Resume-Marvel-Ogoke-july-2023.pdf?rlkey=44yg73t78o5kgnhp1artj8gz3&dl=0"><button className="hirebtn2">
             Résumé</button> </a>
         </span>
     </Box>

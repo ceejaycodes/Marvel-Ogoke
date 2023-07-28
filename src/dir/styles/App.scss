@@ -21,7 +21,7 @@ $base-back: #151515;
   padding: 0;
   font-family: Inconsolata-Variable;
   cursor:default;
-  overflow-x: hidden;
+  
 }
 
 a{
@@ -34,12 +34,13 @@ html{
   margin-left: 30px;
   margin-right: 30px;
   max-width: 100%;
-  overflow-x: hidden;
+  
 }
 
 body{
   line-height: 1.5;
   background-color: $base-back;
+  overflow-x: hidden;
 }
 
 
